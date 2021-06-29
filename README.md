@@ -1,1 +1,1 @@
-# omkar
+# omkar git repo demostration
